@@ -2,7 +2,7 @@
 
 # URL
 
-https://patryk-stanek.github.io/nexter-udemy/
+https://patryk-stanek.github.io/trillo-udemy/
 
 # Design creator
 

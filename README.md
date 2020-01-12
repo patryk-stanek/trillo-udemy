@@ -1,9 +1,5 @@
-# Project made with Udemy course by Jonas Schmedtmann
+# Trillo
 
-# URL
+## An example deployment is running [here](https://patryk-stanek.github.io/trillo-udemy/).
 
-https://patryk-stanek.github.io/trillo-udemy/
-
-# Design creator
-
-https://www.udemy.com/user/jonasschmedtmann/
+Project made with Udemy course, designed by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
